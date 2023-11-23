@@ -25,6 +25,8 @@ plt.ylabel('Average Age')
 plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
 
-# Save the plot as an image file
+# Save the plot as an image file !!!
 plt.savefig('average_age_by_race.png')
 plt.show()
+
+#테스트한거 테스트추가인데
